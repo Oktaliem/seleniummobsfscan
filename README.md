@@ -24,6 +24,11 @@ $ mvn clean test -Dtest=MobileStaticAnalysis -Durl="http://localhost:8000/" -Dpa
 i.e iOS installer (.ipa)
 $ mvn clean test -Dtest=MobileStaticAnalysis -Durl="http://localhost:8000/" -Dpath="/home/okta/Downloads/" -DapkName="EriBank.ipa"
 ```
+### Youtube Tutorial
+   <a href="https://youtu.be/oyFLVg8442Y" target="_blank"><img src="https://user-images.githubusercontent.com/26521948/72658109-63a1d400-39e7-11ea-9667-c652586b4508.png" 
+   alt="CLICK HERE" width="140" height="80" border="10" /></a>
+
+
 
 ## References
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
