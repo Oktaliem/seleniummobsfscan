@@ -4,7 +4,7 @@
 
 
 # SeleniumMobSFScan
-Selenium and Mobile Security Framework (MobSF) Integration to make Continuous Security Testing possible.
+Selenium and Mobile Security Framework (MobSF) Integration to make Continuous Static Analysis possible.
 
 ## How to install MobSF in Docker
 ```
