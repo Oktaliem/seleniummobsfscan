@@ -11,7 +11,7 @@ Selenium and Mobile Security Framework (MobSF) Integration to make Continuous Se
 $ docker pull docker pull opensecurity/mobile-security-framework-mobsf
 $ docker run -it -p 8000:8000 opensecurity/mobile-security-framework-mobsf:latest
 
-Then Open browser and navigat to http://localhost:8000/
+Then Open browser and navigate to http://localhost:8000/
 ```
 
 ## How to Run Mobile Static Analysis with Selenium
